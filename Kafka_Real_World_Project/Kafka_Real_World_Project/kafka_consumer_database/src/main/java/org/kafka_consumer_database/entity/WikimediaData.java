@@ -16,6 +16,7 @@ public class WikimediaData {
 	@Lob
 	private String wikimediaData;
 	//PRIVATE STRING NAME
+	//My name is
 	public Long getId() {
 		return id;
 	}
